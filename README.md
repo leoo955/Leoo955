@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Leoo955">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Salut,+je+suis+Leo+(Leoo955);Developpeur+Junior+|+16+ans;Building+the+Paranoia+Ecosystem;En+apprentissage+continu...&font=Fira+Code&center=true&width=800&height=70&color=8b5cf6&vCenter=true&pause=1000&size=30" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Salut,+je+suis+Leo+(Leoo955);Developpeur+Junior;Building+the+Paranoia+Ecosystem;En+apprentissage+continu...&font=Fira+Code&center=true&width=800&height=70&color=8b5cf6&vCenter=true&pause=1000&size=30" alt="Typing SVG" />
   </a>
   
   <br>
