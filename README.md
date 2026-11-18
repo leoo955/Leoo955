@@ -1,5 +1,4 @@
-# Salut, je suis Leo (Leoo955)
-
+# Salut, je suis JNR
 **Développeur Junior | Building the Paranoia Ecosystem | En apprentissage continu**
 
 *Transformer des idées complexes en logiciels performants.*  
